@@ -1,0 +1,9 @@
+{
+  "Order": {
+    "id": "int",
+    "klant": "string",
+    "artikel": "string",
+    "adres": "string",
+    "createdAt": "date"
+    }
+}
